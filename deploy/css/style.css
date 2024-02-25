@@ -182,7 +182,6 @@ body {
 
 main {
     background: var(--primary-light);
-    padding: 1rem;
     grid-gap: 1rem;
     display: grid;
 }
